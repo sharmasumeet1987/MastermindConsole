@@ -1,0 +1,7 @@
+C:\Workspace\MastermindConsole\MastermindConsole\bin\Debug\MastermindConsole.exe.config
+C:\Workspace\MastermindConsole\MastermindConsole\bin\Debug\MastermindConsole.exe
+C:\Workspace\MastermindConsole\MastermindConsole\bin\Debug\MastermindConsole.pdb
+C:\Workspace\MastermindConsole\MastermindConsole\obj\Debug\MastermindConsole.csprojAssemblyReference.cache
+C:\Workspace\MastermindConsole\MastermindConsole\obj\Debug\MastermindConsole.csproj.CoreCompileInputs.cache
+C:\Workspace\MastermindConsole\MastermindConsole\obj\Debug\MastermindConsole.exe
+C:\Workspace\MastermindConsole\MastermindConsole\obj\Debug\MastermindConsole.pdb
